@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hursh-desai
-- 👀 I’m interested in the whole product lifecycle
+- 👀 I’m interested in mastering every part of the product lifecycle
 - 🌱 I’m currently learning data engineering!
 
 <!---
