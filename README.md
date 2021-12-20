@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hursh-desai
-- 👀 I’m interested in mastering every step of the data lifecycle.
-- 🌱 I’m currently learning Data Engineering!
+- 👀 I’m interested in mastering everything.
+- 🌱 I’m currently learning everything!
 
 <!---
 hursh-desai/hursh-desai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
